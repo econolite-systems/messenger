@@ -1,0 +1,6 @@
+[submodule "common"]
+	path = common
+	url = ../common
+[submodule "logic-statements"]
+	path = logic-statements
+	url = ../logic-statements
